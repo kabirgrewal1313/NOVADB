@@ -23,12 +23,11 @@ The database includes table creation, triggers for enforcing business logic, sto
 - Triggers to enforce that no operations happen before a pharmacy sells at least 10 drugs
 - Stored procedures for:
 
-Adding, deleting, updating records
+  - Adding, deleting, updating records
 
-Generating reports (prescriptions, drug lists, stock status)
+  - Generating reports (prescriptions, drug lists, stock status)
 
-Enforcing business rules
-- Dummy data provided for testing
+  - Enforcing business rules
 # Technologies Used
 - SQL (Oracle/MySQL compatible)
 
